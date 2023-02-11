@@ -1,7 +1,7 @@
 
 
 ### Hi there, I'm Yenn 👋
-**Data Scientist | Web Dev | Blockchain Enthusiast | Writer**
+> **Data Scientist | Web Dev | Blockchain Enthusiast | Writer**
 
 - ✍️ I'm looking for programmers/enthusiasts to collaborate on Arweave/Smartweave projects!  <br>
 - 😀 I'm interested in Blockchain Technologies, Artificial Intelligence, Machine Learning, Web Development and Cloud Service Technologies. <br>
@@ -10,9 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn01)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Some great reads 📚:
-- **Blink: The Power of Thinking Without Thinking** by _Malcolm Gladwell_ <br>
-- **Outliers** by _Malcolm Gladwell_ <br>
-- **The Gift of Fear** by _Gavin de Becker_
+- **Blink: The Power of Thinking Without Thinking** <sub>by _Malcolm Gladwell_ </sub><br>
+- **Outliers** <sub>by _Malcolm Gladwell_ </sub><br>
+- **The Gift of Fear** <sub>by _Gavin de Becker_ </sub>
 <!--
 **yenn01/yenn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
