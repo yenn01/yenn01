@@ -1,6 +1,7 @@
-**Data Scientist | Web Dev | Blockchain Enthusiast**
+
 
 ### Hi there, I'm Yenn 👋
+**Data Scientist | Web Dev | Blockchain Enthusiast**
 
 - ✍️ I'm looking for programmers/enthusiasts to collaborate on Arweave/Smartweave projects!  <br>
 - 😀 I'm interested in Blockchain Technologies, Artificial Intelligence, Machine Learning, Web Development and Cloud Service Technologies. <br>
