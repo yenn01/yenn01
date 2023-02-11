@@ -1,4 +1,12 @@
-### Hi there 👋
+**Data Scientist | Web Dev | Blockchain Enthusiast**
+
+### Hi there, I'm Yenn 👋
+
+- ✍️ I'm looking to collaborate on Arweave/Smartweave projects!  <br>
+- 😀 I'm interested in Blockchain Technologies, Artificial Intelligence, Machine Learning, Web Development and Cloud Service Technologies. <br>
+- 💡 Ask me about web or app ideas.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn01&layout=compact)](https://github.com/yenn01/github-readme-stats)
 
 <!--
 **yenn01/yenn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
