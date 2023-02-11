@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Yenn 👋
 
-- ✍️ I'm looking for programmers/hackers to collaborate on Arweave/Smartweave projects!  <br>
+- ✍️ I'm looking for programmers/enthusiasts to collaborate on Arweave/Smartweave projects!  <br>
 - 😀 I'm interested in Blockchain Technologies, Artificial Intelligence, Machine Learning, Web Development and Cloud Service Technologies. <br>
 - 💡 Ask me about web or app ideas.
 
