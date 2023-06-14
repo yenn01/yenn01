@@ -12,7 +12,7 @@
 #### Some great reads 📚:
 - **Blink: The Power of Thinking Without Thinking** <sub>by _Malcolm Gladwell_ </sub><br>
 - **Outliers** <sub>by _Malcolm Gladwell_ </sub><br>
-- **The Gift of Fear** <sub>by _Gavin de Becker_ </sub>
+- **Quiet: The Power of Introverts in a World That Can't Stop Talking** <sub>by _Susan Cain_ </sub>
 <!--
 **yenn01/yenn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
