@@ -7,7 +7,7 @@
 - 😀 I'm interested in Blockchain Technologies, Artificial Intelligence, Machine Learning, Web Development and Cloud Service Technologies. <br>
 - 💡 Ask me about web or app ideas.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn01&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Some great reads 📚:
 - **Blink: The Power of Thinking Without Thinking** <sub>by _Malcolm Gladwell_ </sub><br>
