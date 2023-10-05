@@ -9,10 +9,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenn01&PAT_1)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Some great reads 📚:
-- **Blink: The Power of Thinking Without Thinking** <sub>by _Malcolm Gladwell_ </sub><br>
-- **Outliers** <sub>by _Malcolm Gladwell_ </sub><br>
-- **Quiet: The Power of Introverts in a World That Can't Stop Talking** <sub>by _Susan Cain_ </sub>
+#### My reads 📚:
+https://www.goodreads.com/review/list/170470008
 <!--
 **yenn01/yenn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
